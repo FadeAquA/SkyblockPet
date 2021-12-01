@@ -1,0 +1,14 @@
+name: SkyblockPets
+version: 1.0.0
+main: me.aqua.fadepets.PetsPlugin
+api-version: 1.16
+authors: [ AquA, Piggy ]
+depend:
+  - ShopGUIPlus
+  - Vault
+description: Skyblock pets
+
+commands:
+  pets:
+    description: Main plugin command
+    aliases: [pet]
